@@ -1,0 +1,33 @@
+.tab {
+  font-family: "Courier New", Courier, monospace;	
+}
+
+textarea {
+  width: 100%;
+  height: 150px;
+}
+
+.convert {
+  float: right;
+}
+
+.container {
+  margin-top: 10px;
+}
+
+.option {
+  width: 100%;
+  font-size: 24px;
+}
+
+.btn-default.active {
+    background-color: #dbdbed;
+}
+
+.btn-default:hover {
+  background-color: #ededf6;
+}
+
+.btn-default.active:hover {
+  background-color: #ededf6;
+}
